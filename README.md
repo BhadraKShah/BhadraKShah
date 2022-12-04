@@ -7,13 +7,19 @@
 * 📄 &nbsp; Check out my [Resume](./Bhadra_Shah_Resume.pdf)
 * 📷 &nbsp; My hobbies include Dancing, Cooking and Traveling.
 
-### 🏆 &nbsp; Recent Achievements
+### 🏆 &nbsp; Professional Experience
 
-* Joined BlackRock as a Summer Analyst (SWE)
-* Research Paper based on [Sign Language Recognition using CNN](https://github.com/mihir-m-gandhi/Sign-Language-Recognition) was presented at **5th International Conference on Advances in Computing and Data Science - ICACDS 2021** and published in Advances in Computing and Data Sciences. View the paper [here](https://link.springer.com/chapter/10.1007/978-3-030-88244-0_27).
-*  My article **['Traffic Intersection Simulation using Pygame'](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a)** has been published in **[Towards Data Science](https://towardsdatascience.com/)**, one of the leading publications for Programming, Data Science, and Artificial Intelligence on Medium. Featured on the **Editor's Pick** page with over 25k views to date.
-* Research Paper based on [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was presented at **5th IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/)** and published in IEEE Xplore. View the paper [here](https://ieeexplore.ieee.org/document/9358334).
-* [Adaptive Traffic Signal Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) was showcased at a **National Level Project Competition** organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/) 
+*Software Developer, Nimap Infotech Sep 2019 – March 2021
+• Designed and Developed BackEnd web services for Field Force Connect CRMapplication.
+• Developed the feature to view and download employee activity report.
+• Collaborated with other team members on design solution and code reviews
+
+*Software Developer, Genesys International Corporation Ltd Jan 2019 – May 2019
+• Designed and developed web services for Dubai Land Department Project (DLD).
+• BackEnd (RESTful services) development using Java Spring MVC which helped in managing land details.
+• Developed critical database queries in PostgreSQL to add complex features in web services.
+   
+• Hands on experience with agile team working in a continuous delivery model.
 
 <br />
 
