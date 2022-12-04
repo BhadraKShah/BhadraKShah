@@ -105,8 +105,7 @@
 
 <a href="https://github.com/BhadraKShah/Projects/blob/main/CNN.ipynb">Fashion MNIST Classification [ Keras, Matplotlib, NumPy]</a>
 *  &nbsp; Analyzed and preprocessed the data.
-*  &nbsp; AppliedConvolutionalNeuralNetwork(CNN)modelanddifferenttechniquestooptimizethemodelfor
-classification.
+*  &nbsp; Applied Convolutional Neural Network(CNN) model and different techniques to optimize the model for classification.
   
 
 <a href="https://github.com/BhadraKShah/Projects/blob/main/Single%20agent%20reinforcement%20learning.ipynb">Agent Grid Reinforcement Learning [Python]</a>
