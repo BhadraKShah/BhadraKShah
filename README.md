@@ -74,6 +74,14 @@
   
 
 </p>
+  
+### 👨‍💻 &nbsp; 
+ * Programming Proficiency: Python, Java, C, R programming.
+* Web Technologies: HTML, JavaScript, CSS, Angular, NodeJS, REST APIs.
+* Database: MySQL, PostgreSQL, MongoDB.
+* Tools and Technologies: TensorFlow, Keras, Pandas, Scikit-learn, Jupyter Notebook, R-studio, Natural Language processing
+(NLP), Deep Learning, Collaborative Filtering, Tableau, SQL, Hypothesis Testing, Excel, Git, Postman.
+
 
 ---
 ### 📺 &nbsp; Latest YouTube Videos
