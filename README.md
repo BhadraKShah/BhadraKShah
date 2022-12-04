@@ -7,19 +7,18 @@
 * 📄 &nbsp; Check out my [Resume](./Bhadra_Shah_Resume.pdf)
 * 📷 &nbsp; My hobbies include Dancing, Cooking and Traveling.
 
-### 🏆 &nbsp; Professional Experience
+### 👨‍💻 &nbsp; Professional Experience
 
-* **Software Developer, Nimap Infotech**  Sep 2019 – March 2021
-*  &nbsp; • Designed and Developed BackEnd web services for Field Force Connect application.
-• Developed the feature to view and download employee activity report.
-• Collaborated with other team members on design solution and code reviews
+**Software Developer, Nimap Infotech** 
+*  &nbsp; Designed and Developed BackEnd web services for Field Force Connect application.
+*  &nbsp; Developed the feature to view and download employee activity report.
+*  &nbsp; Collaborated with other team members on design solution and code reviews
 
-*Software Developer, Genesys International Corporation Ltd Jan 2019 – May 2019
-• Designed and developed web services for Dubai Land Department Project (DLD).
-• BackEnd (RESTful services) development using Java Spring MVC which helped in managing land details.
-• Developed critical database queries in PostgreSQL to add complex features in web services.
-   
-• Hands on experience with agile team working in a continuous delivery model.
+**Software Developer, Genesys International Corporation Ltd **
+*  &nbsp; Designed and developed web services for Dubai Land Department Project (DLD).
+*  &nbsp; BackEnd (RESTful services) development using Java Spring MVC which helped in managing land details.
+*  &nbsp; Developed critical database queries in PostgreSQL to add complex features in web services.
+*  &nbsp; Hands on experience with agile team working in a continuous delivery model.
 
 <br />
 
