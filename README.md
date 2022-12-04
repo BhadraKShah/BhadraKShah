@@ -4,7 +4,7 @@
 * 🎓 &nbsp; I am a Software Engineer with excellent academic background and diverse skillset
 * 🏢  &nbsp; Currently pursuing my Master's in Data Sciecne from  **State University of New York- University at Buffalo**
 * 🏢  &nbsp; Completed my Bachleors in Computer Science from **KLE Technological University**
-* 📄 &nbsp; Check out my [Resume](./Bhadra_shah.pdf)
+* 📄 &nbsp; Check out my [Resume](./Bhadra_Shah_Resume.pdf)
 * 📷 &nbsp; My hobbies include Dancing, Cooking and Traveling.
 
 ### 🏆 &nbsp; Recent Achievements
