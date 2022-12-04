@@ -14,7 +14,7 @@
 *  &nbsp; Developed the feature to view and download employee activity report.
 *  &nbsp; Collaborated with other team members on design solution and code reviews
 
-** Software Developer, Genesys International Corporation Ltd **
+**Software Developer, Genesys International Corporation Ltd**
 *  &nbsp; Designed and developed web services for Dubai Land Department Project (DLD).
 *  &nbsp; BackEnd (RESTful services) development using Java Spring MVC which helped in managing land details.
 *  &nbsp; Developed critical database queries in PostgreSQL to add complex features in web services.
