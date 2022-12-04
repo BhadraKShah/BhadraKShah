@@ -75,8 +75,8 @@
 
 </p>
   
-### 👨‍💻 &nbsp; 
- * Programming Proficiency: Python, Java, C, R programming.
+### &nbsp; 
+ * Programming Languages: Python, Java, C, R programming.
 * Web Technologies: HTML, JavaScript, CSS, Angular, NodeJS, REST APIs.
 * Database: MySQL, PostgreSQL, MongoDB.
 * Tools and Technologies: TensorFlow, Keras, Pandas, Scikit-learn, Jupyter Notebook, R-studio, Natural Language processing
@@ -84,68 +84,4 @@
 
 
 ---
-### 📺 &nbsp; Latest YouTube Videos
 
-<table>
-  <tbody>
-    <!-- YOUTUBE:START -->
-   <tr>
-      <td><a href="https://youtu.be/p5d_lPTsd-4"><img width="200px" src="https://img.youtube.com/vi/p5d_lPTsd-4/maxresdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/p5d_lPTsd-4">Stopping the Spread - Peach Tree Disease</a><br/>May 12, 2022</td>
-    </tr>
-   <tr>
-      <td><a href="https://youtu.be/XGmRTsjJRN4"><img width="200px" src="https://i.ytimg.com/vi/XGmRTsjJRN4/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/XGmRTsjJRN4">H&M Personalized Fashion Recommendation | Machine Learning Project</a><br/>April 28, 2022</td>
-    </tr>
-   <tr>
-      <td><a href="https://youtu.be/k2iPT3R_x0w"><img width="200px" src="https://i.ytimg.com/vi/k2iPT3R_x0w/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/k2iPT3R_x0w">Climate Change is Real! | Data Visualization Project</a><br/>Dec 15, 2021</td>
-    </tr>
-<!--     <tr>
-      <td><a href="https://youtu.be/kDrJEgj7FdY"><img width="200px" src="https://i.ytimg.com/vi/kDrJEgj7FdY/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/kDrJEgj7FdY">Medicyl - Decentralized Health Record Management (SIH 2020)</a><br/>Feb 4, 2021</td>
-    </tr> -->
-    <tr>
-      <td><a href="https://youtu.be/OssY5pzOyo0"><img width="200px" src="https://i.ytimg.com/vi/OssY5pzOyo0/mqdefault.jpg"></a></td>
-      <td><a href="https://youtu.be/OssY5pzOyo0">Smart Control of Traffic Light System using Artificial Intelligence</a><br/>May 25, 2020</td>
-    </tr>
-  <!-- YOUTUBE:END -->
-  </tbody>
-</table>
-
----
-### &#x1f4c8; &nbsp; GitHub Stats
-
-<p align="center">
-  
-<a href="https://github.com/mihir-m-gandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-m-gandhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mihir Gandhi | Stats" />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Adaptive-Traffic-Signal-Timer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
- 
- <a href="https://github.com/mihir-m-gandhi/Basic-Traffic-Intersection-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Basic-Traffic-Intersection-Simulation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
- 
- 
-<a href="https://github.com/mihir-m-gandhi/Sign-Language-Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Sign-Language-Recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
- 
- <a href="https://github.com/mihir-m-gandhi/Enron-Email-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Enron-Email-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
- 
-<a href="https://github.com/mihir-m-gandhi/Tree-Disease-Spread-Cellular-Automata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mihir-m-gandhi&repo=Tree-Disease-Spread-Cellular-Automata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-
-</p>
