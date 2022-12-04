@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-<b><i>Let's connect! Find me on the web.</i></b>  
+<b><i>Let's connect! </i></b>  
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/bhadra-shah/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
@@ -68,7 +68,7 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" title="Docker" />
   
 
-  
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="JupyterNotebook" width="40" height="40" title="JupyterNotebook" />  
   <img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" alt="windows" width="40" height="40" title="Windows OS" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux OS" />
   
