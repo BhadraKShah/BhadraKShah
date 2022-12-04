@@ -72,15 +72,16 @@
   <img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" alt="windows" width="40" height="40" title="Windows OS" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux OS" />
   
-
-</p>
-  
-### &nbsp; 
+  ### &nbsp; 
  * Programming Languages: Python, Java, C, R programming.
 * Web Technologies: HTML, JavaScript, CSS, Angular, NodeJS, REST APIs.
 * Database: MySQL, PostgreSQL, MongoDB.
 * Tools and Technologies: TensorFlow, Keras, Pandas, Scikit-learn, Jupyter Notebook, R-studio, Natural Language processing
 (NLP), Deep Learning, Collaborative Filtering, Tableau, SQL, Hypothesis Testing, Excel, Git, Postman.
+
+</p>
+  
+
 
 
 ---
