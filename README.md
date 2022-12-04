@@ -88,5 +88,22 @@
   
 ### 👨‍💻 &nbsp; Projects
   
-
+**Smart Parking Reservation System [PHP, Python]**
+*  &nbsp;  Developed a PHP based web application to help reserve vacant parking spots.
+*  &nbsp; Used object detection approach (Haar Cascade algorithm) to identify vacant parking spots
+**Tesla Stock Time Series Analysis [ NumPy, Sklearn, TensorFlow]**
+*  &nbsp; Performed Data Visualization and Analysis to understand trends of Tesla (TSLA) stock data. 
+*  &nbsp; Employed Recurrent Neural Network and Long Short-Term Memory for forecasting.
+**Fashion MNIST Classification [ Keras, Matplotlib, NumPy]**
+*  &nbsp; Analyzed and preprocessed the data.
+*  &nbsp; AppliedConvolutionalNeuralNetwork(CNN)modelanddifferenttechniquestooptimizethemodelfor
+classification.
+**Agent Grid Reinforcement Learning [Python]**
+*  &nbsp; Created a grid environment with a single agent containing different positive and negative rewards.
+*  &nbsp; Utilized the reinforcement learning algorithm, epsilon-greedy, Q learning, SARSA, Double Q learning
+and compared the results.
+**H&M Fashion Recommendation system [Python]**
+*  &nbsp; Created a recommendation system to give user’s recommendations using the H&M dataset.
+*  &nbsp; Utilized CNN Model (ResNet) to extract features from images and used K- means Clustering to cluster the data
+*  &nbsp; Performed ALS Matrix Factorization method to give recommendations based on user similarity.
 
