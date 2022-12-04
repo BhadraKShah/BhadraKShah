@@ -88,7 +88,7 @@
   
 ### 👨‍💻 &nbsp; Projects
   
-**Smart Parking Reservation System [PHP, Python]** <a href="https://www.linkedin.com/in/bhadra-shah/"><img height="30" src="https://user-images.githubusercontent.com/89943603/205513806-91ee5b35-b82e-4237-a50d-40b6dfc7cbf1.png)""></a>&nbsp;&nbsp;
+**Smart Parking Reservation System [PHP, Python]** <a href="https://www.linkedin.com/in/bhadra-shah/">
   
   
 
