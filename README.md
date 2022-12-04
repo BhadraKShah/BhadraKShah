@@ -9,8 +9,8 @@
 
 ### 🏆 &nbsp; Professional Experience
 
-*Software Developer, Nimap Infotech Sep 2019 – March 2021
-• Designed and Developed BackEnd web services for Field Force Connect CRMapplication.
+* **Software Developer, Nimap Infotech**  Sep 2019 – March 2021
+*  &nbsp; • Designed and Developed BackEnd web services for Field Force Connect application.
 • Developed the feature to view and download employee activity report.
 • Collaborated with other team members on design solution and code reviews
 
