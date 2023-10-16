@@ -1,24 +1,45 @@
 <h2 align="center">Hi, I'm Bhadra Shah 👋</h2>
 
 ### 📖 &nbsp; About me
-* 🎓 &nbsp; I am a Software Engineer with excellent academic background and diverse skillset
-* 🏢  &nbsp; Currently pursuing my Master's in Data Sciecne from  **State University of New York- University at Buffalo**
+* 🎓 &nbsp; I am a Software Engineer with excellent academic background and diverse skillset.
+*  🏢  &nbsp; Currently working as a Software Developer at Yom Solutions.
+* 🏢  &nbsp; Graduated from **State University of New York- University at Buffalo**
 * 🏢  &nbsp; Completed my Bachleors in Computer Science from **KLE Technological University**
 * 📄 &nbsp; Check out my [Resume](./Bhadra_Shah_Resume.pdf)
 * 📷 &nbsp; My hobbies include Dancing, Cooking and Traveling.
 
 ### 👨‍💻 &nbsp; Professional Experience
 
+**Software Developer, Yom Solutions** 
+*  &nbsp; Designed and developed microservices that enabled scalability, resiliency and traceability using Spring Netflix OSS stack and deployment using tools such as Junit, Docker, Kubernetes.
+*  &nbsp; Used sleuth and zipkin to add traceability on all HTTP calls to and from the services.
+*  &nbsp; Implemented Hysterix to achieve optimal resiliency in services and increase stability and availability of the stack.
+*  &nbsp;	Secured the APIs with Oauth, implementing client credentials grant type.
+*  &nbsp;	Worked on migrating services from on-prem to AWS cloud. 
+*  &nbsp;	Designed and implement user-friendly interfaces using AngularJS.
+*  &nbsp;	Contributed to build a complete CI/CD pipeline to reduce the time to implement changes.
+
+
+
 **Software Developer, Nimap Infotech** 
-*  &nbsp; Designed and Developed BackEnd web services for Field Force Connect application.
-*  &nbsp; Developed the feature to view and download employee activity report.
-*  &nbsp; Collaborated with other team members on design solution and code reviews
+*  &nbsp; Designed and Developed BackEnd web services in java for employee management.
+*  &nbsp; Implemented complex SQL queries for data retrieval, manipulation and performance optimization.
+*  &nbsp; Participated in and contributed to various Agile scrum ceremonies.
+*  &nbsp;	Aligned logging to support Splunk logging for order traceability, fault detection and other metrics for business agility.
+*  &nbsp;	Designed and implemented responsive user interfaces using React.
+*  &nbsp;	Used Docker to create, manage, and deploy containers for java applications.
+*  &nbsp;	Used Oauth2 to secure microservices and grant access to users based on roles at API level.
+
+
 
 **Software Developer, Genesys International Corporation Ltd**
-*  &nbsp; Designed and developed web services for Dubai Land Department Project (DLD).
-*  &nbsp; BackEnd (RESTful services) development using Java Spring MVC which helped in managing land details.
-*  &nbsp; Developed critical database queries in PostgreSQL to add complex features in web services.
-*  &nbsp; Hands on experience with agile team working in a continuous delivery model.
+*  &nbsp;		Designed and developed microservices for Dubai Land Department Project (DLD).
+*  &nbsp;		Backend (REST services) development using Java technology stack such as J2EE technologies (JSP, Servlets, MVC, Spring hibernate) which helped in managing land details.
+*  &nbsp;		Implemented JUnit test cases and use Mockito to mock external dependencies.
+*  &nbsp;		SQL development GIS data (PostgreSQL).
+*  &nbsp;	  Hands on experience with agile team working in a continuous delivery model.
+
+
 
 <br />
 
