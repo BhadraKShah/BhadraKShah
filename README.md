@@ -3,8 +3,8 @@
 ### 📖 &nbsp; About me
 * 🎓 &nbsp; I am a Software Engineer with excellent academic background and diverse skillset.
 *  🏢  &nbsp; Currently working as a Software Developer at Yom Solutions.
-* 🏢  &nbsp; Graduated from **State University of New York- University at Buffalo**
-* 🏢  &nbsp; Completed my Bachleors in Computer Science from **KLE Technological University**
+* 🏢  &nbsp; Graduated from **State University of New York- University at Buffalo.**
+* 🏢  &nbsp; Completed my Bachleors in Computer Science from **KLE Technological University.**
 * 📄 &nbsp; Check out my [Resume](./Bhadra_Shah_Resume.pdf)
 * 📷 &nbsp; My hobbies include Dancing, Cooking and Traveling.
 
