@@ -94,11 +94,12 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" title="Linux OS" />
   
   ### &nbsp; 
- * Programming Languages: Python, Java, C, R programming.
-* Web Technologies: HTML, JavaScript, CSS, Angular, NodeJS, REST APIs.
-* Database: MySQL, PostgreSQL, MongoDB.
-* Tools and Technologies: TensorFlow, Keras, Pandas, Scikit-learn, Jupyter Notebook, R-studio, Natural Language processing
-(NLP), Deep Learning, Collaborative Filtering, Tableau, SQL, Hypothesis Testing, Excel, Git, Postman.
+*	Programming languages: C, Java, Python.
+*	Web Technologies: HTML, JavaScript, CSS, Angular, React.
+*	Database: MySQL, PostgreSQL, MongoDB, Oracle.
+*	Tools and Technologies: PyCharm, Jupyter Notebook, Eclipse, Postman, Git, TensorFlow, Spring MVC, Docker, JUnit, Eureka, Intellij, Eclipse, Jenkins
+
+
 
 </p>
   
