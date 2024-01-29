@@ -10,14 +10,7 @@
 
 ### 👨‍💻 &nbsp; Professional Experience
 
-**Software Developer, Yom Solutions** 
-*  &nbsp; Designed and developed microservices that enabled scalability, resiliency and traceability using Spring Netflix OSS stack and deployment using tools such as Junit, Docker, Kubernetes.
-*  &nbsp; Used sleuth and zipkin to add traceability on all HTTP calls to and from the services.
-*  &nbsp; Implemented Hysterix to achieve optimal resiliency in services and increase stability and availability of the stack.
-*  &nbsp;	Secured the APIs with Oauth, implementing client credentials grant type.
-*  &nbsp;	Worked on migrating services from on-prem to AWS cloud. 
-*  &nbsp;	Designed and implement user-friendly interfaces using AngularJS.
-*  &nbsp;	Contributed to build a complete CI/CD pipeline to reduce the time to implement changes.
+
 
 
 
